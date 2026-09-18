@@ -1,0 +1,3 @@
+# Seulement pour régénérer les PDF synthétiques et exécuter les tests techniques.
+reportlab==4.4.9
+

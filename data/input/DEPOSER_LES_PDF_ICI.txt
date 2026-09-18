@@ -1,0 +1,5 @@
+Déposer ici les PDF autorisés. Les sous-dossiers sont parcourus.
+Le notebook utilise d'abord data/demo par défaut. Passer MODE_DEMO à False pour traiter ce dossier.
+Ne pas modifier un PDF pendant son traitement. Ne pas stocker le projet sur un dossier synchronisé
+si la politique de confidentialité impose que les résultats restent uniquement sur le poste.
+

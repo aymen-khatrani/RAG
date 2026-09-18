@@ -1,0 +1,5 @@
+# Python 3.11 ou 3.12, 64 bits. Aucun téléchargement n'est effectué par le notebook.
+pdfplumber==0.11.8
+jupyterlab>=4.4,<5
+ipykernel>=6.29,<8
+
